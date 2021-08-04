@@ -2,7 +2,7 @@
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Amir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-afjal-bb9b9a175/)](https://www.linkedin.com/in/amir-afjal-bb9b9a175/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Amir-pink)](https://stackoverflow.com/users/16328978/amir-afjal)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Amir-red)](https://stackoverflow.com/users/16328978/amir-afjal)
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me) -->
 
 
