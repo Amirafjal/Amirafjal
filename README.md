@@ -6,8 +6,8 @@
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me) -->
 
 
-I'm AMIR AFJAL
-Full Stack Solution Architect
+I'm AMIR AFJAL<br/>
+Full Stack Solution Architect</br>
 The crossover between design and programming has always been of interest to me, 
 <!-- I've been lucky enough to work alongside some talented teams on a number of high profile websites.  -->
 I have a wide range of skills that include 
