@@ -23,7 +23,7 @@ The crossover between design and programming has always been of interest to me, 
 
 ![](https://activity-graph.herokuapp.com/graph?username=Amirafjal&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amirafjal/Amirafjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
