@@ -41,7 +41,7 @@ Languages and Tools:
 <!-- <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>  -->
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>  -->
 
-<hr><hr>
+<hr>
 
 <!-- 🧰 Toolbox
 
@@ -58,7 +58,7 @@ Languages and Tools:
 
 ![Amirafjal GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirafjal&show_icons=true&theme=radical)
 
-<hr><hr>
+<hr>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Amirafjal&theme=react-dark&area=true)
 <!--
