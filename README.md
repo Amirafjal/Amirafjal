@@ -41,8 +41,24 @@ Languages and Tools:
 <!-- <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>  -->
 <!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>  -->
 
+<hr><hr>
 
+<!-- 🧰 Toolbox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="php Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="php Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="php Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="php Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="php Logo" with="50" height="50"/>
+ -->
+---
+<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirafjal&theme=radical&layout=compact)](https://github.com/Hmida71/github-readme-stats)
+
+![Amirafjal GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirafjal&show_icons=true&theme=radical)
+
+<hr><hr>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Amirafjal&theme=react-dark&area=true)
 <!--
