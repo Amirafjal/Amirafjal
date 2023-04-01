@@ -18,7 +18,7 @@ front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Amirafjal/count.svg)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amir-afjal.Amir-afjal)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Amir-afjal.Amir-afjal) -->
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
