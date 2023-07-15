@@ -31,16 +31,7 @@ front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX)
 Languages and Tools:
 
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> 
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> 
-<img alt="Spring" src="https://img.shields.io/badge/spring-%23777BB4.svg?style=flat-square&logo=spring&logoColor=white"/> 
-<img alt="SpringBoot" src="https://img.shields.io/badge/springboot-%23777BB4.svg?style=flat-square&logo=springboot&logoColor=white"/>
-<img alt="Jira" src="https://img.shields.io/badge/jira-%231572B6.svg?style=flat-square&logo=jira&logoColor=white"/> 
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring-%23777BB4.svg?style=flat-square&logo=spring&logoColor=white"/> <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-%23777BB4.svg?style=flat-square&logo=springboot&logoColor=white"/><img alt="Jira" src="https://img.shields.io/badge/jira-%231572B6.svg?style=flat-square&logo=jira&logoColor=white"/> 
 
 <!-- <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/>  -->
 
